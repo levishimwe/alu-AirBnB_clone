@@ -1,13 +1,13 @@
 # AirBnB Clone - Web Static
 
-## Background
+## overview
 This project is the first step in creating a dynamic web application for managing AirBnB objects. We will focus on building the front end step-by-step.
 
 ## Objectives
-The goal is to create static HTML pages with the following characteristics:
+The goal is to create static HTML pages with the following features:
 - Use HTML for structure and CSS for styling.
-- No JavaScript or dynamic content is allowed.
-- Each HTML page must meet specific layout requirements.
+- No JavaScript or dynamic content is needed.
+- Each HTML page must meet specific layout needs.
 
 
 
@@ -18,7 +18,7 @@ The goal is to create static HTML pages with the following characteristics:
 - Images should be stored in the `images` folder.
 
 
-## Tasks Overview
+## Tasks looks
 1. **Inline Styling**: Create an HTML page with a header and footer using inline styles.
 2. **Head Styling**: Use the `<style>` tag in the head section for styling.
 3. **CSS Files**: Separate CSS into different files for common styles, header, and footer.
