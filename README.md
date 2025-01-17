@@ -82,3 +82,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ## Authors :black_nib:
 * **Levis Ishimwe** <[levishimwe](https://github.com/levishimwe)> <i.levis@alustudent.com>
 * **Akachi David Nwanze** <[S1rDavid9](https://github.com/S1rDavid9)> <d.akachi@alustudent.com>
+* **Joan Kariza** <[JoanK7](https://github.com/JoanK7)> <j.kariza@alustudent.com>
